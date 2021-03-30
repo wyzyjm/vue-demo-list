@@ -1,0 +1,7 @@
+{
+    "id": "@id",
+    "username": "@cname",
+    "age|1-80": 18,
+    "gender": "男",
+    "email": "@email"
+}
